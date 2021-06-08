@@ -1,0 +1,11 @@
+# IntelliJ stuff
+
+.idea/
+
+# Visual Studio Code stuff
+
+.settings/
+.vscode/
+.classpath
+.project
+*.code-workspace
